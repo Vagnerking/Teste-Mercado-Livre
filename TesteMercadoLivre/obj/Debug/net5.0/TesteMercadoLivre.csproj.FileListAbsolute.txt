@@ -1,0 +1,16 @@
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\obj\Debug\net5.0\TesteMercadoLivre.csproj.AssemblyReference.cache
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\obj\Debug\net5.0\TesteMercadoLivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\obj\Debug\net5.0\TesteMercadoLivre.AssemblyInfoInputs.cache
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\obj\Debug\net5.0\TesteMercadoLivre.AssemblyInfo.cs
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\obj\Debug\net5.0\TesteMercadoLivre.csproj.CoreCompileInputs.cache
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\bin\Debug\net5.0\TesteMercadoLivre.exe
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\bin\Debug\net5.0\TesteMercadoLivre.deps.json
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\bin\Debug\net5.0\TesteMercadoLivre.runtimeconfig.json
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\bin\Debug\net5.0\TesteMercadoLivre.runtimeconfig.dev.json
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\bin\Debug\net5.0\TesteMercadoLivre.dll
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\bin\Debug\net5.0\ref\TesteMercadoLivre.dll
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\bin\Debug\net5.0\TesteMercadoLivre.pdb
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\obj\Debug\net5.0\TesteMercadoLivre.dll
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\obj\Debug\net5.0\ref\TesteMercadoLivre.dll
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\obj\Debug\net5.0\TesteMercadoLivre.pdb
+C:\Users\Vagner\source\repos\TesteMercadoLivre\TesteMercadoLivre\obj\Debug\net5.0\TesteMercadoLivre.genruntimeconfig.cache
